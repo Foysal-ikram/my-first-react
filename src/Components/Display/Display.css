@@ -1,0 +1,15 @@
+.display{
+    border: 2px solid red;
+    background-color: tomato;
+}
+
+.btn{
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.display img{
+    width: 90%;
+    padding: 5px;
+
+}

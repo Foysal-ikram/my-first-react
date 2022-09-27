@@ -1,0 +1,28 @@
+.food-container{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    column-gap: 5px;
+    row-gap: 5px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.Home-container{
+    display: grid;
+    grid-template-columns: 82% 18%;
+
+}
+
+.display-container{
+    
+    border: 2px solid salmon;
+
+
+}
+
+.Cart-container{
+    text-align: start;
+    border: 2px dashed blueviolet;
+    padding-left: 20px;
+    
+}
